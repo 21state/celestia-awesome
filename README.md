@@ -10,6 +10,8 @@
 | Overview   | Modular blockchains for Intermediates                     | Celestia Labs    | -         | [Link](https://celestia.org/learn/intermediates/modular-and-monolithic-blockchains/) |
 | Article    | Modular vs monolithic: a beginner's guide                 | Alex Beckett     | Nov 2022  | [Link](https://blog.celestia.org/modular-vs-monolithic-a-beginners-guide/)           |
 | Article    | How modular blockchains create a world of abundance       | Alex Beckett     | Apr 2023  | [Link](https://blog.celestia.org/abundant-blockchains/)                              |
+| Article    | Celestia roadmap: 1 GB blocks to Build Whatever           | Celestia Labs    | Sep 2024  | [Link](https://blog.celestia.org/roadmap/)                                           |
+| Post       | Celestia roadmap explained                                | Nick White       | Sep 2024  | [Link](https://x.com/nickwh8te/status/1831730037198070246)                                           |
 
 ## Core Architecture
 
