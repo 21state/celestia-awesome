@@ -22,6 +22,15 @@
 | Article    | Lazybridging: the Celestia endgame to solve fragmentation and stream assets from anywhere | Mustafa Al-Bassam                                | Nov 2024 | [Link](https://blog.celestia.org/lazybridging/)                             |
 | Research   | Celestia DAS: Reconstruction Simulations and Light Node Requirements                      | Vlad Krinitsyn                                   | Jan 2025 | [Link](https://forum.celestia.org/t/celestia-das-reconstruction-simulations-and-light-node-requirements/1891) |
 
+## Builder Tools & Development
+
+### Rollup Development
+
+| Format        | Name                                                                                      | Contributor(s)          | Source                                                 | Description                                            |
+|---------------|-------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Documentation | Rollup stacks                                                                             | Celestia Labs           | [Link](https://docs.celestia.org/how-to-guides/rollup-stacks)       | Guide explaining rollup frameworks, RaaS providers, and benefits of building modular blockchains on Celestia. |
+| Repository    | dummy_rollup                                                                              | Josh Stein              | [Link](https://github.com/jcstein/dummy_rollup/)       | This is a dummy rollup project to test posting and retrieving data from Celestia. Can be used as rollup template. |
+
 ## Mammothon Workshops
 
 | Format  | Name                                                         | Published | Source                               |
