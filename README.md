@@ -21,3 +21,27 @@
 | Research   | Achieving base layer functionality escape velocity without on-chain smart contracts       | Mustafa Al-Bassam                                | May 2023 | [Link](https://forum.celestia.org/t/achieving-base-layer-functionality-escape-velocity-without-on-chain-smart-contracts-using-sovereign-zk-rollups/95) |
 | Article    | Lazybridging: the Celestia endgame to solve fragmentation and stream assets from anywhere | Mustafa Al-Bassam                                | Nov 2024 | [Link](https://blog.celestia.org/lazybridging/)                             |
 | Research   | Celestia DAS: Reconstruction Simulations and Light Node Requirements                      | Vlad Krinitsyn                                   | Jan 2025 | [Link](https://forum.celestia.org/t/celestia-das-reconstruction-simulations-and-light-node-requirements/1891) |
+
+## Mammothon Workshops
+
+| Format  | Name                                                         | Published | Source                               |
+|---------|--------------------------------------------------------------|-----------|--------------------------------------|
+| Video   | Mammothon Launch Event                                       | Jan 2025  | [Link](https://youtu.be/3Tb3NpFR5ww) |
+| Video   | Supercharging Onboarding and Wallet Auth with Para           | Jan 2025  | [Link](https://youtu.be/_-6YJIZF4uY) |
+| Video   | Building Privacy-Preserving Web3 Applications with zkTLS     | Jan 2025  | [Link](https://youtu.be/YQVG6_qZNWI) |
+| Video   | Chopin Framework Tutorial                                    | Jan 2025  | [Link](https://youtu.be/1yrwmWHf2vU) |
+| Video   | Prism Tutorial                                               | Jan 2025  | [Link](https://youtu.be/BWGAnuL3GOQ) |
+| Video   | How to launch and deploy contracts to an interwoven rollup   | Jan 2025  | [Link](https://youtu.be/ToQ8UrUnXAQ) |
+| Video   | The easiest way to onboard all your users with Privy         | Jan 2025  | [Link](https://youtu.be/ueW1zCjOJBo) |
+| Video   | Build fast dApps with RISE                                   | Jan 2025  | [Link](https://youtu.be/Oq-K2GSyozo) |
+| Video   | Rollkit Tutorial                                             | Jan 2025  | [Link](https://youtu.be/SG8ReeNlGaA) |
+| Video   | Intro to Building on Movement                                | Jan 2025  | [Link](https://youtu.be/nOge11wZbZU) |
+| Video   | Building on Abundance 1G/Gas ABC Stack on Gelato             | Jan 2025  | [Link](https://youtu.be/To6ZBwcpsb0) |
+| Video   | Building with Astria                                         | Jan 2025  | [Link](https://youtu.be/-jJ-JUT8nkI) |
+| Video   | How to design and build your onchain world with World Engine | Jan 2025  | [Link](https://youtu.be/BCl-89ob120) |
+| Video   | How to build a game on HappyChain                            | Jan 2025  | [Link](https://youtu.be/ZWQ4bHj5J9w) |
+| Video   | Build provable applications and games with Dojo              | Jan 2025  | [Link](https://youtu.be/sj0lJjufby4) |
+| Video   | Eclipse Tutorial                                             | Jan 2025  | [Link](https://youtu.be/gwEXCHTZkzc) |
+| Video   | Building Gas Intensive Applications with Conduit G2          | Jan 2025  | [Link](https://youtu.be/t82-Q-NgxQQ) |
+| Video   | How to do dApp deployment with Madara                        | Feb 2025  | [Link](https://youtu.be/4dNJoOntC9o) |
+| Video   | Forma Tutorial                                               | Feb 2025  | [Link](https://youtu.be/8NLUbwooORw) |
